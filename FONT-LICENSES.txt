@@ -1,0 +1,10 @@
+Fonts used on this site, all free under the SIL Open Font License 1.1
+(https://openfontlicense.org). You may keep, use and redistribute them with the site.
+
+- Fraunces (Undercase Type)
+- Newsreader (Production Type)
+- IBM Plex Mono (IBM)
+- Caveat (Impallari Type)
+- Bricolage Grotesque (Mathieu Triay)
+
+Files are the Latin subsets, packaged by Fontsource (https://fontsource.org).
